@@ -1,5 +1,5 @@
 // archivo: mutator_pick.go
-package mutator
+package github.com/jaavier/mutator
 
 import (
 	"math/rand"

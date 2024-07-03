@@ -1,5 +1,5 @@
 // Archivo: mutator.go
-package mutator
+package github.com/jaavier/mutator
 
 type MutationAction int
 

@@ -1,5 +1,5 @@
 // archivo: mutator_inser.go
-package mutator
+package github.com/jaavier/mutator
 
 import (
 	"encoding/json"
