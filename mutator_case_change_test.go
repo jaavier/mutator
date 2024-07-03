@@ -1,5 +1,5 @@
 // Archivo: mutator_change_case_test.go
-package github.com/jaavier/mutator
+package mutator
 
 import (
 	"fmt"

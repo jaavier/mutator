@@ -1,4 +1,4 @@
-package github.com/jaavier/mutator
+package mutator
 
 // getValidDeletePositions returns valid positions for deletion based on the mutation type
 func (m *Mutator) getValidDeletePositions(runes []rune, mutationType MutationType) []int {
