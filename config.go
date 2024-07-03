@@ -1,5 +1,5 @@
 // Archivo: models.go
-package mutator
+package github.com/jaavier/mutator
 
 type MutationType struct {
 	Type              MutationAction

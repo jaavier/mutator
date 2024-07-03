@@ -1,4 +1,4 @@
-package mutator
+package github.com/jaavier/mutator
 
 func (m *Mutator) reverseSubstring(runes []rune, mutationType MutationType) []rune {
 	if len(runes) == 0 {

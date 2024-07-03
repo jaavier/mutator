@@ -1,4 +1,4 @@
-package mutator
+package github.com/jaavier/mutator
 
 import (
 	"strings"

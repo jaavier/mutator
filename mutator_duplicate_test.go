@@ -1,6 +1,6 @@
 // Archivo: mutator_duplicate_test.go
 
-package mutator
+package github.com/jaavier/mutator
 
 import (
 	"testing"

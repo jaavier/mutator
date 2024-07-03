@@ -1,6 +1,6 @@
 // archivo: mutator_duplicate.go
 
-package mutator
+package github.com/jaavier/mutator
 
 import "math/rand"
 
