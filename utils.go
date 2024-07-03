@@ -1,5 +1,5 @@
 // Archivo: helpers.go
-package github.com/jaavier/mutator
+package mutator
 
 import (
 	"bufio"
